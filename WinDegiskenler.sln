@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBatanBank", "WinBatanBan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOperatorler", "WinOperatorler\WinOperatorler.csproj", "{FE787A66-FDDF-42C8-B098-6B38C4A2C978}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCasting", "WinCasting\WinCasting.csproj", "{55A85E92-3AE3-439E-9B88-3E1CE771A995}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FE787A66-FDDF-42C8-B098-6B38C4A2C978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE787A66-FDDF-42C8-B098-6B38C4A2C978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE787A66-FDDF-42C8-B098-6B38C4A2C978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A85E92-3AE3-439E-9B88-3E1CE771A995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A85E92-3AE3-439E-9B88-3E1CE771A995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A85E92-3AE3-439E-9B88-3E1CE771A995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A85E92-3AE3-439E-9B88-3E1CE771A995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
