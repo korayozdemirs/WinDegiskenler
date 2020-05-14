@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOperatorler", "WinOperat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCasting", "WinCasting\WinCasting.csproj", "{55A85E92-3AE3-439E-9B88-3E1CE771A995}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinHatalar", "WinHatalar\WinHatalar.csproj", "{8100EDC9-D13F-489C-B42C-CF3DC1FC6CE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{55A85E92-3AE3-439E-9B88-3E1CE771A995}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55A85E92-3AE3-439E-9B88-3E1CE771A995}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55A85E92-3AE3-439E-9B88-3E1CE771A995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8100EDC9-D13F-489C-B42C-CF3DC1FC6CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8100EDC9-D13F-489C-B42C-CF3DC1FC6CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8100EDC9-D13F-489C-B42C-CF3DC1FC6CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8100EDC9-D13F-489C-B42C-CF3DC1FC6CE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
