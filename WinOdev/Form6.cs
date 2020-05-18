@@ -16,5 +16,13 @@ namespace WinOdev
         {
             InitializeComponent();
         }
+
+        private void button1_MouseEnter(object sender, EventArgs e)
+        {
+            //sender uzerıne gelinen nesneyı temsil eder
+            //Tip belli olmadığı için Button nesnesi oluşturup Buttona cast ettik.
+            Button btn = (Button)sender;
+            btn.BackColor = Color.Red;
+        }
     }
 }
