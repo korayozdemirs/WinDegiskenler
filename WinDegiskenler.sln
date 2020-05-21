@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinHatalar", "WinHatalar\Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinKararYapilari", "WinKararYapilari\WinKararYapilari.csproj", "{16C42D51-BB5A-4B1F-B04E-54D2ABF40264}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDonguler", "WinDonguler\WinDonguler.csproj", "{B0B5206A-364F-4EEC-9575-42B839A44D08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{16C42D51-BB5A-4B1F-B04E-54D2ABF40264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16C42D51-BB5A-4B1F-B04E-54D2ABF40264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16C42D51-BB5A-4B1F-B04E-54D2ABF40264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B5206A-364F-4EEC-9575-42B839A44D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B5206A-364F-4EEC-9575-42B839A44D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B5206A-364F-4EEC-9575-42B839A44D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B5206A-364F-4EEC-9575-42B839A44D08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
