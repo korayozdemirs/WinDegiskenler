@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WinDonguler
+namespace WinDiziler
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace WinDonguler
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form8());
+            Application.Run(new Form2());
         }
     }
 }
