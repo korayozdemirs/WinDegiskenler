@@ -16,7 +16,7 @@ namespace WinOdev
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form7());
+            Application.Run(new Form9());
         }
     }
 }
