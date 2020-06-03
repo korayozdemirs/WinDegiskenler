@@ -21,7 +21,7 @@ namespace WinOdev
         Random rnd = new Random();
         private void Form10_Load(object sender, EventArgs e)
         {
-            for (int i = 1; i < 25; i++)
+            for (int i = 1; i <= resimler.Length; i++)
             {
                 Button btn = new Button();
                 btn.Height = btn.Width = 44;
