@@ -58,7 +58,7 @@
             // txtAdi
             // 
             this.txtAdi.Location = new System.Drawing.Point(103, 30);
-            this.txtAdi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAdi.Margin = new System.Windows.Forms.Padding(4);
             this.txtAdi.Name = "txtAdi";
             this.txtAdi.Size = new System.Drawing.Size(195, 22);
             this.txtAdi.TabIndex = 1;
@@ -76,7 +76,7 @@
             // txtSoyadi
             // 
             this.txtSoyadi.Location = new System.Drawing.Point(103, 62);
-            this.txtSoyadi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSoyadi.Margin = new System.Windows.Forms.Padding(4);
             this.txtSoyadi.Name = "txtSoyadi";
             this.txtSoyadi.Size = new System.Drawing.Size(195, 22);
             this.txtSoyadi.TabIndex = 1;
@@ -94,7 +94,7 @@
             // txtAnapara
             // 
             this.txtAnapara.Location = new System.Drawing.Point(103, 94);
-            this.txtAnapara.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAnapara.Margin = new System.Windows.Forms.Padding(4);
             this.txtAnapara.Name = "txtAnapara";
             this.txtAnapara.Size = new System.Drawing.Size(195, 22);
             this.txtAnapara.TabIndex = 1;
@@ -112,15 +112,15 @@
             // txtKdvli
             // 
             this.txtKdvli.Location = new System.Drawing.Point(103, 126);
-            this.txtKdvli.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtKdvli.Margin = new System.Windows.Forms.Padding(4);
             this.txtKdvli.Name = "txtKdvli";
             this.txtKdvli.Size = new System.Drawing.Size(195, 22);
             this.txtKdvli.TabIndex = 1;
             // 
             // btnKaydet
             // 
-            this.btnKaydet.Location = new System.Drawing.Point(103, 158);
-            this.btnKaydet.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnKaydet.Location = new System.Drawing.Point(102, 157);
+            this.btnKaydet.Margin = new System.Windows.Forms.Padding(4);
             this.btnKaydet.Name = "btnKaydet";
             this.btnKaydet.Size = new System.Drawing.Size(196, 38);
             this.btnKaydet.TabIndex = 2;
@@ -140,7 +140,7 @@
             this.lstKrediler.GridLines = true;
             this.lstKrediler.HideSelection = false;
             this.lstKrediler.Location = new System.Drawing.Point(320, 30);
-            this.lstKrediler.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lstKrediler.Margin = new System.Windows.Forms.Padding(4);
             this.lstKrediler.Name = "lstKrediler";
             this.lstKrediler.Size = new System.Drawing.Size(633, 165);
             this.lstKrediler.TabIndex = 3;
@@ -187,7 +187,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtAdi);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
