@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WinOOP01
+namespace WinCollectionAndGeneric
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace WinOOP01
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form5());
+            Application.Run(new Form1());
         }
     }
 }

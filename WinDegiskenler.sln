@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMetotlar", "WinMetotlar\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOOP01", "WinOOP01\WinOOP01.csproj", "{7B6CCDC2-A282-4CC2-9FDE-0B79FF9DBFBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCollectionAndGeneric", "WinCollectionAndGeneric\WinCollectionAndGeneric.csproj", "{5B6C4D93-0EED-4C3C-A288-7009BB8FD346}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7B6CCDC2-A282-4CC2-9FDE-0B79FF9DBFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B6CCDC2-A282-4CC2-9FDE-0B79FF9DBFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B6CCDC2-A282-4CC2-9FDE-0B79FF9DBFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6C4D93-0EED-4C3C-A288-7009BB8FD346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6C4D93-0EED-4C3C-A288-7009BB8FD346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6C4D93-0EED-4C3C-A288-7009BB8FD346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6C4D93-0EED-4C3C-A288-7009BB8FD346}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
