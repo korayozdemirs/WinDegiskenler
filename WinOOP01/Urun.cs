@@ -14,5 +14,6 @@ namespace WinOOP01
         }
         public int Id { get; set; }
         public string Adi { get; set; }
+        //koray.ozdemir@bilgeadam.com
     }
 }
