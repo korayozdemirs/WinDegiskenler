@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOOP3", "WinOOP3\WinOOP3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOOP4", "WinOOP4\WinOOP4.csproj", "{C26C0D53-844A-450B-B58C-E5F9C0F1C50A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOOP5", "WinOOP5\WinOOP5.csproj", "{131CBA64-0C05-42B8-9610-2FB645F243CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{C26C0D53-844A-450B-B58C-E5F9C0F1C50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C26C0D53-844A-450B-B58C-E5F9C0F1C50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C26C0D53-844A-450B-B58C-E5F9C0F1C50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131CBA64-0C05-42B8-9610-2FB645F243CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131CBA64-0C05-42B8-9610-2FB645F243CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131CBA64-0C05-42B8-9610-2FB645F243CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131CBA64-0C05-42B8-9610-2FB645F243CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
